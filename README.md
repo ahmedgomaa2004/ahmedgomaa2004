@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/266b76a1-8ebb-49ba-829f-c6f6db946c4b" width="100%" alt="Ahmed Elgohary Header" />
+  <img src="https://github.com/user-attachments/assets/266b76a1-8ebb-49ba-829f-c6f6db946c4b" width="100%" alt="Ahmed Gomaa Header" />
 
   <h1 style="font-size: 36px; color: #4FC3F7; font-weight: bold; margin-top: 10px;">
-    👋 Hi, I'm Ahmed Elgohary
+    👋 Hi, I'm Ahmed Gomaa
   </h1>
 
   <p align="center">
@@ -18,7 +18,9 @@
 
 ### 🧠 About Me  
 
-I am a fourth-year Computer Science student specializing in Information Systems, with a strong focus on back-end development using ASP.NET Core. I also have a growing passion for Data Science and Artificial Intelligence, and I am constantly seeking opportunities to learn and apply new technologies. I thrive on challenges that push me to grow both professionally and personally. My goal is to build efficient, robust, and user-friendly solutions while continuously improving my skills and contributing to impactful projects.
+I'm a back-end developer specializing in Laravel, building robust, secure, and scalable web applications. I have hands-on experience working on several projects where I've developed my skills in database management, API development, and application performance optimization.
+
+I always strive to learn the latest technologies and apply best practices in programming to provide effective and easy-to-use software solutions.
 
 
 
@@ -51,8 +53,8 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 ### 📈 GitHub Performance  
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedelgohary&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedelgohary&theme=react&hide_border=true&background=0D1117" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedgomaa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgomaa&theme=react&hide_border=true&background=0D1117" width="49%" />
 
 </div>
 
@@ -62,13 +64,13 @@ I am a fourth-year Computer Science student specializing in Information Systems,
 
 ### 📬 Connect With Me  
 
-<a href="https://linkedin.com/in/ahmed-elgohary7" target="_blank">
+<a href="https://linkedin.com/in/ahmed-gomaa7" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ahmedelgoharyy7@gmail.com" target="_blank">
+<a href="mailto:ahmedgomaay7@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/ahmedelgohary" target="_blank">
+<a href="https://github.com/ahmedgomaa" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
